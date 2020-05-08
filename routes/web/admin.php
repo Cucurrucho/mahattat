@@ -11,9 +11,9 @@ Route::domain('admin.' . env('APP_DOMAIN'))->group(function () {
             Route::patch('/', 'ContentController@update');
         });
         Route::group(['prefix' => 'posts'], function () {
+            Route::get('/', 'PostController@index');
             Route::get('/newPost', 'PostController@showNew');
             Route::post('/newPost/create', 'PostController@create');
-            Route::get('/', 'PostController@index');
             Route::get('/{post}', 'PostController@show');
             Route::patch('/updatePost/{post}', 'PostController@update');
             Route::delete('/delete/{post}', 'PostController@delete');

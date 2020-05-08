@@ -1,7 +1,7 @@
 @extends('layouts.admin')
 @section('content')
     <div class="section columns is-centered">
-        <div class="column is-half">
+        <div class="column">
             <form method="POST" action="{{action('Admin\ContentController@update')}}">
                 @csrf
                 @method('PATCH')
