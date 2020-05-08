@@ -1,0 +1,12 @@
+.tabs {
+    overflow-x: hidden;
+}
+
+.tab {
+    border-left: 1px solid darkgrey;
+
+    border-bottom-left-radius: 40px;
+    a {
+        border-radius: 0px 0px 0px 40px;
+    }
+}
