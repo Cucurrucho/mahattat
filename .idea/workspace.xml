@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="79180dd9-324c-44be-9a87-f034f84481a1" name="Default Changelist" comment="" />
+    <list default="true" id="79180dd9-324c-44be-9a87-f034f84481a1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/app.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +25,16 @@
         <option value="Vue Component" />
         <option value="Vue Single File Component" />
       </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\wamp64\www\mahatat\.idea" />
+      </set>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
@@ -128,6 +143,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1aHjI6b75FXHd79l16dztJ9bUyA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -135,6 +151,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Vue" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/lang/en" />
@@ -235,7 +252,7 @@
       <workItem from="1588867965669" duration="1000" />
       <workItem from="1588868321312" duration="1182000" />
       <workItem from="1588869540912" duration="17370000" />
-      <workItem from="1588944960895" duration="9821000" />
+      <workItem from="1588944960895" duration="11217000" />
     </task>
     <servers />
   </component>

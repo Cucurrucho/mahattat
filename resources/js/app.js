@@ -9,7 +9,7 @@ require('./bootstrap');
 window.Vue = require('vue');
 import VueIziToast from 'vue-izitoast';
 Vue.use(VueIziToast);
-require('./Components/components');
+require('./components/components');
 
 Vue.prototype.$bus = new Vue();
 /**
